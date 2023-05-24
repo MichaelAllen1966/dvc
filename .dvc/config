@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = https://www.dropbox.com/scl/fo/nt0nu134ucieajp771sk0/h?dl=0
+    url = gdrive://1GQ3CiuUXWaRM3N1SQmJ_Es9A8GiwJY_S
