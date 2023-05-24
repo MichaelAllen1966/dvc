@@ -11,3 +11,5 @@ dependencies:
   - python=3.10
   - pip:
     - dvc
+    - dvc-gdrive
+    - cryptography
