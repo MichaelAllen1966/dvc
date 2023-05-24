@@ -1,4 +1,7 @@
 [core]
     remote = storage
+    autostage = true
 ['remote "storage"']
-    url = gdrive://1GQ3CiuUXWaRM3N1SQmJ_Es9A8GiwJY_S
+    url = gs://penchord-dvc-test/test
+['remote "myremote"']
+    url = gs://penchord-dvc-test/test
