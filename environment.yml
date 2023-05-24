@@ -12,4 +12,5 @@ dependencies:
   - pip:
     - dvc
     - dvc-gdrive
+    - dvc[gs]
     - cryptography
